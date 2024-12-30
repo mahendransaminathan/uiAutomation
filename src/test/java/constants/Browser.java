@@ -1,4 +1,6 @@
 package constants;
 
-public class Browser {
+public enum Browser
+{
+    CHROME, FIREFOX, EDGE
 }

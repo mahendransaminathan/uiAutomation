@@ -1,4 +1,5 @@
 package utility;
 
-public class PropertiesUtil {
+public class PropertiesUtil
+{
 }

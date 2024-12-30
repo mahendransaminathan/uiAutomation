@@ -1,0 +1,15 @@
+{
+  "environments": {
+    "DEV":
+    {
+      "url" : "https://www.vbdace.com"
+    },
+    "QA": {
+      "url": "https://www.vbdace.com"
+    },
+    "UAT":
+    {
+      "url": "https://www.vbdace.com"
+    }
+  }
+}

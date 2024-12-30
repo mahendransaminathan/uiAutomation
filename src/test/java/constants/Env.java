@@ -1,4 +1,6 @@
 package constants;
 
-public class Env {
+public enum Env
+{
+    DEV, QA, UAT
 }
